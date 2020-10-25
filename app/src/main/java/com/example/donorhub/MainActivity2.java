@@ -14,7 +14,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.material.textfield.TextInputLayout;
 
-class MainActivity2 extends AppCompatActivity {
+public class MainActivity2 extends AppCompatActivity {
 
     EditText email, password;
     Button login;
